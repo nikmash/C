@@ -1,0 +1,12 @@
+all: main
+
+main: main.o libsl.a
+	gcc -o main main.o libsl.a
+main.o: main.c
+	gcc -wall -c main.c
+libsl.a: sortedlist.o
+	ar -cvq libsl.a sortedlist.o
+sortedlist.o: sortedlist.c 
+	gcc -wall -c sortedlist.c
+
+

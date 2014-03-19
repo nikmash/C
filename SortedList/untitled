@@ -1,0 +1,39 @@
+int i;
+ 	int k;
+ 	int j;
+ 	int z;
+ 	k = 5;
+ 	j = 3;
+
+ 	int *num = (int *) malloc(sizeof(int));
+*num = k;
+listNode *number = nodeCreate(num, NULL);
+
+ 	printf("%d\n", *num);
+ 	printf("hello %d \n", *((int *)(number->data)));
+ 	printf("what up %d \n", *(int *)(*number).data);
+
+
+ 	int(*PF)(void*, void*);
+ 	PF = compareInts;
+SortedListPtr newList = SLCreate(PF);
+
+i = SLInsert(newList, num);
+printf("%d this is whether SLInsert returned true \n", i);
+
+printf("%d this is what is in the sortedList \n", *((int *)(newList->head->data)));
+
+int *num2 = (int *) malloc(sizeof(int));
+*num2 = j;
+
+z = SLInsert(newList, num2);
+
+printf("%d this is whether SLInsert returned true or false \n", z);
+
+printf("%d this is whether it has been inserted \n", *((int *)(newList->head->next->data)));
+
+SortedListIteratorPtr newSLIP = SLCreateIterator(newList);
+listNode *sltest = (listNode *) malloc(sizeof(listNode));
+sltest = SLNextItem(newSLIP);
+
+printf("%d SortedList Iterator test \n", *((int *)(sltest->data)));

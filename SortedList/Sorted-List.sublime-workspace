@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"l	SortedListPtr"
+			],
+			[
+				"SlistIter",
+				"SlistIterPtr	SortedListIteratorPtr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 1509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main_SegFault.c",
+			"settings":
+			{
+				"buffer_size": 1407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList_Other/Other.h",
+			"settings":
+			{
+				"buffer_size": 5090,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList_Other/Other.c",
+			"settings":
+			{
+				"buffer_size": 8893,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sorted-list.c",
+			"settings":
+			{
+				"buffer_size": 3393,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sorted-list.h",
+			"settings":
+			{
+				"buffer_size": 4184,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: t",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList/main_old.c",
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList/main.c",
+		"/Users/nikhilmashettiwar/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList_Other/Other.c",
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList_Other/Other.h",
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList/main2.c",
+		"/Users/nikhilmashettiwar/Downloads/sorted-list.c",
+		"/Users/nikhilmashettiwar/Library/Application Support/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/Users/nikhilmashettiwar/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/nikhilmashettiwar/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/nikhilmashettiwar/Library/Application Support/Sublime Text 2/Packages/User/C++.sublime-settings",
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList/sorted-list.h",
+		"/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList/sorted-list.pdf"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NODE",
+			"node",
+			"NODE",
+			"node",
+			"Node",
+			"node",
+			"Node",
+			"NODE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"settings":
+					{
+						"buffer_size": 1509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main_SegFault.c",
+					"settings":
+					{
+						"buffer_size": 1407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList_Other/Other.h",
+					"settings":
+					{
+						"buffer_size": 5090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1748.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nikhilmashettiwar/Dropbox/RU/6 Fall 2012/Systems Programming/SortedList_Other/Other.c",
+					"settings":
+					{
+						"buffer_size": 8893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "sorted-list.c",
+					"settings":
+					{
+						"buffer_size": 3393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2348,
+								2348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1312.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sorted-list.h",
+					"settings":
+					{
+						"buffer_size": 4184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1745,
+								1745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
