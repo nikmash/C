@@ -1,0 +1,20 @@
+<list> tyke
+dist/etext/FICTION/mdmar10.txt 35 dist/etext/FICTION/london-sea-206.txt 5 dist/etext/FICTION/sea_wolf 5 dist/etext/FICTION/people_abyss 2 dist/etext/FICTION/london-people-205.txt 2 
+dist/etext/REFERENCE/roget13a.txt 1 dist/etext/FICTION/dracula 1 dist/etext/FICTION/stoker-dracula-168.txt 1 dist/etext/FICTION/stratton-song-406.txt 1 dist/etext/FICTION/stratton-girl-405.txt 1 
+dist/etext/FICTION/conrad-lord-373.txt 1 dist/etext/FICTION/limbr10.txt 1 dist/etext/FICTION/snowy10.txt 1 dist/etext/FICTION/dracula.txt 1 
+</list>
+<list> tyken
+dist/etext/FICTION/people_abyss 1 dist/etext/FICTION/london-people-205.txt 1 
+</list>
+<list> tykes
+dist/etext/FICTION/london-sea-206.txt 1 dist/etext/FICTION/sea_wolf 1 
+</list>
+<list> tylenol
+dist/100/applemaf.hum 1 dist/etext/MODERN/termcomp.2 1 dist/etext/MODERN/termc10.txt 1 dist/etext/REFERENCE/world192.txt 1 dist/etext/REFERENCE/world12.txt 1 
+dist/etext/REFERENCE/world94.txt 1 dist/etext/REFERENCE/world93.txt 1 
+dist/etext/FICTION/people_abyss 1 dist/etext/FICTION/london-people-205.txt 1 
+</list>
+<list> tyler
+dist/etext/NONFICTION/rights_man 10 dist/etext/NONFICTION/paine-rights-399.txt 10 dist/etext/REFERENCE/pge0112.txt 8 dist/etext/REFERENCE/zipdelim.txt 3 dist/etext/REFERENCE/penc.txt 2 
+dist/etext/REFERENCE/roget13a.txt 1 dist/etext/REFERENCE/wbstr10a.txt 1 
+</list>
